@@ -1,8 +1,6 @@
-[![Build Status](https://travis-ci.org/scottohara/loot.svg)](https://travis-ci.org/scottohara/loot)
-[![Code Climate](https://codeclimate.com/github/scottohara/loot/badges/gpa.svg)](https://codeclimate.com/github/scottohara/loot)
-[![Test Coverage](https://codeclimate.com/github/scottohara/loot/badges/coverage.svg)](https://codeclimate.com/github/scottohara/loot)
-[![Dependency Status](https://img.shields.io/librariesio/github/scottohara/loot.svg)](https://libraries.io/github/scottohara/loot)
-[![Known Vulnerabilities](https://snyk.io/test/github/scottohara/loot/badge.svg)](https://snyk.io/test/github/scottohara/loot)
+[![Maintainability](https://api.codeclimate.com/v1/badges/883689bafa51c1f125ea/maintainability)](https://codeclimate.com/github/davehenton/loot/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/883689bafa51c1f125ea/test_coverage)](https://codeclimate.com/github/davehenton/loot/test_coverage)
+
 
 Description
 ===========
